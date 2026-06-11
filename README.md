@@ -24,7 +24,7 @@
 ### 🌐 Web Development
 - **Frontend:** Javascript, Tailwind CSS 
 - **Backend:** Django, Django REST Framework  
-- **Database:** PostgreSQL, SQLite  
+- **Database:** PostgreSQL, SQLite, Vector Database  
 
 ### 🤖 AI & Automation
 - API automation
@@ -67,9 +67,6 @@
 - REST API with **Django REST Framework** and SMTP
 - Handles money transaction, authentication, email notifications
 
-### Portfolio Website Integrated with AI Chatbot using n8n and Vector Database
-- This website will help to know about the personal information through AI chatbot
-
 ### Bank Management System Testing using Katalon Recorder
 
 - Tested login, account management, and transaction functionalities.
@@ -83,6 +80,10 @@
 - Validated response status codes, response bodies, and API behavior.
 - Created and executed positive and negative test scenarios.
 - Verified data creation, retrieval, update, and deletion operations.
+
+### Portfolio Website Integrated with AI Chatbot using n8n and Vector Database
+- This website will help to know about the personal information through AI chatbot
+
 
 ---
 
