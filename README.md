@@ -75,14 +75,14 @@
 - Tested login, account management, and transaction functionalities.
 - Designed and executed test scenarios for critical workflows.
 - Identified defects and validated fixes through retesting.
--Automated repetitive testing tasks using Katalon Recorder.
+- Automated repetitive testing tasks using Katalon Recorder.
 
 ### API Testing Project using Postman
 
--Tested REST APIs using GET, POST, PUT, PATCH, and DELETE methods.
--Validated response status codes, response bodies, and API behavior.
--Created and executed positive and negative test scenarios.
--Verified data creation, retrieval, update, and deletion operations.
+- Tested REST APIs using GET, POST, PUT, PATCH, and DELETE methods.
+- Validated response status codes, response bodies, and API behavior.
+- Created and executed positive and negative test scenarios.
+- Verified data creation, retrieval, update, and deletion operations.
 
 ---
 
